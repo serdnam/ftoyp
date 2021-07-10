@@ -14,5 +14,5 @@ deno run --allow-net --allow-read  --unstable  src/server/main.ts ./files
 You can test it out with
 
 ```
-curl -vv --no-eprt -P - ftp://localhost/README
+curl -vv --no-eprt -P - ftp://localhost/TEST
 ```
